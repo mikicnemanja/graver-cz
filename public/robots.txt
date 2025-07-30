@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://graver-cz.vercel.app/sitemap.xml
+
+# Block common unnecessary paths
+Disallow: /_next/
+Disallow: /api/
+Disallow: *.json 
